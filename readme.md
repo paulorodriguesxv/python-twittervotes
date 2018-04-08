@@ -22,7 +22,7 @@ app
 
 ### Create a twitter APP:
     - https://apps.twitter.com
-    - Refresh your config.yaml with APP access date
+    - Refresh your config.yaml with APP access data
 
 ### Authorize app 
 python twitter_auth.py and access http://localhost:3000
